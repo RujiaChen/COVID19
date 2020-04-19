@@ -6,7 +6,7 @@ In this project, I will use a typical infectious model, SEIR, to modeling this v
 
 Use the data from Johns Hopkin University:
 
-https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data
 
 Exposure index: 
 https://github.com/COVIDExposureIndices/COVIDExposureIndices
